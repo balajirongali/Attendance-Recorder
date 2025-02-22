@@ -46,7 +46,7 @@ dataset/
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/face-recognition-attendance.git
+   git clone https://github.com/balajirongali/Attendance-Recorder
    cd face-recognition-attendance
    ```
 2. Install dependencies:
@@ -90,7 +90,11 @@ The Siamese Network consists of:
 - Expand dataset for more robustness
 
 ## Contributors
-- [Your Name]
+- BALAJI RONGALI
+- MANEESH KUMAR RAM RAJAVADHA
+- RAJA SINGH
+- AMISHA JHA
+- MISBAH SHAIKH
 
 ## License
 This project is open-source and available under the MIT License.
